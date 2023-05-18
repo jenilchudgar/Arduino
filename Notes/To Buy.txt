@@ -1,0 +1,15 @@
+LCD -> Bigger (20 x 4)
+(16 x 4) 
+
+Numpad 
+2 DC Motor
+
+Heart Rate Sensor
+1 m Wire
+RFID Reader
+Color Sensor (TCS3200)
+
+Bluetooth Module
+
+Caligraphy Pen
+Pencil (HB)
